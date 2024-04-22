@@ -1,5 +1,5 @@
 {
-  "name": "ptahdunbar/expo-custom-assets",
+  "name": "@ptahdunbar/expo-custom-assets",
   "version": "1.3.0",
   "description": "Expo plugin to add custom assets to native codebase",
   "main": "build/index.js",
